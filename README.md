@@ -2,19 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+%E5%B0%8F%E9%B2%B8%E9%B1%BC;Welcome+to+my+GitHub+profile;Let's+build+something+cool!" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/qiongzhang1225-alt">
-    <img src="https://komarev.com/ghpvc/?username=qiongzhang1225-alt&label=Profile+views&color=58A6FF&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/qiongzhang1225-alt?tab=followers">
-    <img src="https://img.shields.io/github/followers/qiongzhang1225-alt?label=Followers&style=flat&color=58A6FF" alt="Followers" />
-  </a>
-</p>
-
-<p align="center">
-  🎯 探索者 · 🛠️ 创造者 · 📚 学习者
-</p>
-
 ---
 
 ## 🐍 看小蛇吃掉我的贡献格
